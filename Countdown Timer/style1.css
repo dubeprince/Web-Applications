@@ -1,0 +1,17 @@
+#demo { 
+    color: aliceblue;
+    margin-top: 200px;
+    text-align: center;
+    font-size: 80px;
+    font-style:italic;
+    text-decoration: aliceblue;
+}
+body {
+    background-image: linear-gradient(to right, blue,rgb(23, 169, 123));
+}
+h2{
+    color: aliceblue;
+    text-align: center;
+    font-size: 100px;
+
+}

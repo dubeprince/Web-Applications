@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+    background-image: linear-gradient(to right,rgb(0, 128, 53),rgb(255, 0, 111));
+}
+.card{
+    background-color: azure;
+    margin: 100px;
+    border: solid rgba(228, 116, 12, 0.786);
+    height: 60px;
+    width: 60px;
+    position: relative;
+}
